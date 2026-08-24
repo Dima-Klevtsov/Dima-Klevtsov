@@ -1,3 +1,8 @@
+<h1 align="center">Привет, меня зовут <a href="https://https://github.com/Dima-Klevtsov/" target="_blank">Дима</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я аналитик данных/продуктовый аналитик 🇷🇺</h3>
+
+
 ## Обо мне 👋
 
 Привет, меня зовут Дима! Я аналитик данных.
