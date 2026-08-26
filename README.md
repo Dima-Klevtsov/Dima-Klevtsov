@@ -3,7 +3,7 @@
 <h3 align="center">Я аналитик данных/продуктовый аналитик из Томска</h3>
 
 
-## Обо мне 👋
+## Обо мне:
 
 Привет, меня зовут Дима! Я аналитик данных.
 По базовому образованию я социолог и 3 года занимался социологическими исследованиями в университете. В какой-то момент захотелось полностью переключиться на работу с данными.
@@ -12,12 +12,13 @@
 
 Мои хобби - веду аналитический блог про футбол, а также увлекаюсь шахматами.
 
+Открыт для сотрудничества! Нахожусь в активном поиске работы.
+
 Здесь представлены мои проекты по работе с данными, их обработкой и анализом.
 
 ## Со мной можно связаться:
-по почте - dmitry_klevtsov@mail.ru
-в телеграме - @klevtsovd
-
-Открыт для сотрудничества! Нахожусь в активном поиске работы.
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitry_klevtsov@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klevtsovd)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79609281539)
 
 ## Мои проекты:
