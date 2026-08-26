@@ -18,9 +18,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klevtsovd)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79609281539)
 
-## Мои проекты:
+💻 ## Мои проекты:
 | Название проекта | Описание проекта | Стек
 |:----- |:----------------- |:----------- 
 | A/B–тестирование новой механики оплаты на сайте | Анализ включал предобработку данных, подбор метрик для оценки эффективности новой механики оплаты | pandas,numpy,seaborn, matplotlib,scipy,requests |
 |     2| | |
-|     3| | |
+| Сегментирование клиентской базы для маркетинговых акций (https://github.com/Dima-Klevtsov/customer-segmentation-sql) | Сегментация клиентской базы по покупательской активности и давности регистрации для персонализации CRM-коммуникаций| SQL (join, cte, case), PostgreSQL, Redash |
